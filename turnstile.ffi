@@ -1,0 +1,35 @@
+# TICKET
+# tote blue tail ticker tocker
+obj = Object.new
+
+class Ticket
+  def event
+    "Marmarkievicz Ball"
+  end
+end
+
+
+ticket = Ticket.new
+puts ticket.event
+
+def ticket.event
+
+def event
+
+ticket = Object.new
+def ticket.price
+  117.50
+end
+
+class Ticket
+ def initalize
+  puts "Creating a new ticket!"
+ end
+end
+ 
+ 
+ticket = Ticket.new("Town Hall", "07/15/2019")
+ticket,set_price(62.00)
+puts "The ticket costs £#{"%.2f" % ticket.price}."
+ticket.setprice(72.50)
+puts "WHOOPS -- it just went up. It now costs £#{"%.2f" % ticket.price}."
