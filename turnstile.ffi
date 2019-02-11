@@ -35,4 +35,4 @@ ticket = Ticket.new("Liberty Hall", "07/15/2019")
 ticket,set_price(62.00)
 puts "The ticket costs £#{"%.2f" % ticket.price}."
 ticket.setprice(72.50)
-puts "Costás ár an horseshoe £#{"%.2f" % Daragh_Kenny@twitter.com.price}."
+puts "Costás ár an horseshoe £#{"%.2f" % Daragh_Kenny@twitter.com.rprice}."
